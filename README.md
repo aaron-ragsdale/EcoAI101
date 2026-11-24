@@ -4,7 +4,7 @@
 
 [**Launch the interactive web app →**](https://aaron-ragsdale.github.io/EcoAI101/)
 
-EcoAI101 introduces responsible and environmentally conscious AI use through six everyday decisions. Choose an option, receive feedback, then reveal its animated AI equivalent.
+EcoAI101 introduces responsible and environmentally conscious AI use through six everyday decisions. Choose an option, receive feedback, then reveal its animated AI equivalent. Use the Everyday life / AI equivalent toggle to switch back and forth without losing your choice.
 
 ## What you'll explore
 
@@ -12,8 +12,8 @@ EcoAI101 introduces responsible and environmentally conscious AI use through six
 - Prompt with purpose: a clear grocery list versus vague or excessive instructions.
 - Request only what you need: avoid unnecessary output and regeneration.
 - Reuse before generating: borrow, find, adapt or create.
-- Protect private information: minimize disclosure and check authorization.
-- Choose the right format: text, templates, images or video.
+- Protect private information: ask for advice without exposing a coworker's private information.
+- Find the smartest route to an answer: ask an expert, use conventional search, run heavier analysis, or generate from scratch.
 
 ## For educators
 
